@@ -1,7 +1,7 @@
-#!Telegram
+#Telegram
 
 PROCESS-NAME,org.telegram.messenger
-DOMAIN-SUFFIX,comments.app // @CommentsBot
+DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,tdesktop.com
@@ -20,3 +20,6 @@ IP-ASN,62014,no-resolve // Telegram Messenger Inc
 IP-ASN,62041,no-resolve // Telegram Messenger Inc
 IP-ASN,59930,no-resolve // Telegram Messenger Inc
 IP-ASN,211157,no-resolve // Telegram Messenger Inc
+
+# Signal
+DOMAIN-KEYWORD,Signal

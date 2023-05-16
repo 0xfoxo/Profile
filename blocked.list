@@ -16,6 +16,8 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,deepl
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,oculuscdn.com

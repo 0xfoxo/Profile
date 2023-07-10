@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,weather
 DOMAIN-SUFFIX,api.weather.com
+DOMAIN-SUFFIX,nativesdks.mparticle.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com

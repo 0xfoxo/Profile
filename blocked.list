@@ -23,6 +23,8 @@ DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,weather
+DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ytimg.com

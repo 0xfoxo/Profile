@@ -26,3 +26,6 @@ DOMAIN-KEYWORD,Signal
 USER-AGENT,Signal*
 #wechat
 USER-AGENT,wechat*
+USER-AGENT,weixin*
+DOMAIN-KEYWORD,wechat
+DOMAIN-KEYWORD,weixin

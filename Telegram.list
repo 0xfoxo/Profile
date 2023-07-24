@@ -24,3 +24,5 @@ IP-ASN,211157,no-resolve // Telegram Messenger Inc
 # Signal
 DOMAIN-KEYWORD,Signal
 USER-AGENT,Signal*
+#wechat
+USER-AGENT,wechat*

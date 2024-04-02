@@ -52,6 +52,11 @@ DOMAIN-KEYWORD,udemy
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
+#Busuu
+DOMAIN-KEYWORD,busuu
+DOMAIN-SUFFIX,busuu.com
+DOMAIN-SUFFIX,api.busuu.com
+
 #OTHER
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,deeply

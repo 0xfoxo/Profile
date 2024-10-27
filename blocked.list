@@ -1,4 +1,6 @@
 DOMAIN-SUFFIX,tw
+#Apple Intelligence
+DOMAIN-SUFFIX,http://apple-relay.apple.com
 #Clash of Clans
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-KEYWORD,clashofclans

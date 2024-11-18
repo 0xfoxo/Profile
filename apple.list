@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,me.com
 PROCESS-NAME,storedownloadd // Mac App Store
 USER-AGENT,com.apple.appstored* // iOS App Store
 DOMAIN-SUFFIX,gateway.icloud.com
+gateway.icloud.com

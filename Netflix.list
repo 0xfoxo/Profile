@@ -1,5 +1,5 @@
 #NETFLIX
-RULE-SET,Netflix
+RULE-SET,netflix
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-KEYWORD,netflix
 DOMAIN-KEYWORD,disney

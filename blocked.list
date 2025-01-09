@@ -14,6 +14,11 @@ DOMAIN-KEYWORD,waze
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,youtu.be
+#REDDIT
+DOMAIN-KEYWORD,reddit
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,redditstatic.com
 #FACEBOOK
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,facebook

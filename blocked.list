@@ -5,6 +5,10 @@ DOMAIN-SUFFIX,http://apple-relay.apple.com
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-KEYWORD,clashofclans
 DOMAIN-KEYWORD,supercell
+#Edx
+DOMAIN-SUFFIX,edx.org
+DOMAIN-SUFFIX,edx.sjv.io
+DOMAIN-KEYWORD,edx
 #Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,youtube
@@ -71,4 +75,3 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-KEYWORD,rosettaston
 DOMAIN-SUFFIX,resources.rosettastone.com
-

@@ -63,10 +63,8 @@ DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
-#Busuu
-DOMAIN-KEYWORD,
+#Anki
 DOMAIN-SUFFIX,sync.ankiweb.net
-DOMAIN-SUFFIX,
 
 #OTHER
 DOMAIN-KEYWORD,dropbox

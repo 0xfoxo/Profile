@@ -64,9 +64,9 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
 #Busuu
-DOMAIN-KEYWORD,busuu
-DOMAIN-SUFFIX,busuu.com
-DOMAIN-SUFFIX,api.busuu.com
+DOMAIN-KEYWORD,
+DOMAIN-SUFFIX,sync.ankiweb.net
+DOMAIN-SUFFIX,
 
 #OTHER
 DOMAIN-KEYWORD,dropbox

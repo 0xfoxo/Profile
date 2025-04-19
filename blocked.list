@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,jp
 #Apple Intelligence
 DOMAIN-SUFFIX,http://apple-relay.apple.com
 #Clash of Clans
@@ -18,6 +19,8 @@ DOMAIN-KEYWORD,waze
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-KEYWORD,gemini
 #REDDIT
 DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,redditmedia.com
@@ -35,9 +38,13 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,grok
+DOMAIN-SUFFIX,grok.com
 #OPENAI
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-KEYWORD,chatgpt
 #WEATHER
 DOMAIN-KEYWORD,weather
 DOMAIN-SUFFIX,api.weather.com
@@ -65,6 +72,7 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
 #Anki
 DOMAIN-SUFFIX,sync.ankiweb.net
+
 
 #OTHER
 DOMAIN-KEYWORD,dropbox

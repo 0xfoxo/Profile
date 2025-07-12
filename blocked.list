@@ -70,6 +70,25 @@ DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
+#Signal
+# Signal 官方域名及相关服务
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,signalusers.org
+DOMAIN-SUFFIX,whispersystems.org
+# Signal 的聊天服务器
+DOMAIN,chat.signal.org
+DOMAIN,textsecure-service.whispersystems.org
+# Signal 使用的 API 和更新服务器
+DOMAIN,updates.signal.org
+DOMAIN,cdn.signal.org
+# Signal 通知推送（如果你开启了推送）
+DOMAIN,notify.signal.org
+DOMAIN,push.signal.org
+
+
+
+
+
 #Anki
 DOMAIN-SUFFIX,sync.ankiweb.net
 

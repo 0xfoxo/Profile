@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,ggpht.com
 #REDDIT
 DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,redditmedia.com

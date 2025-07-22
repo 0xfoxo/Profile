@@ -41,11 +41,30 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,grok
 DOMAIN-SUFFIX,grok.com
-#OPENAI
+#OpenAI
+DOMAIN,ai.cn
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,o33249.ingest.sentry.io
+DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
+DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
 DOMAIN-KEYWORD,openai
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-KEYWORD,chatgpt
 #WEATHER
 DOMAIN-KEYWORD,weather
 DOMAIN-SUFFIX,api.weather.com
@@ -56,10 +75,6 @@ DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,SkyDrive
 #DUOLINGO
 DOMAIN-KEYWORD,duolingo
-#LINKEDIN
-DOMAIN-KEYWORD,linkedin
-DOMAIN-KEYWORD,licdn
-DOMAIN-SUFFIX,licdn.com
 #PAYPAL
 DOMAIN-KEYWORD,Wise
 DOMAIN-KEYWORD,PayPal
@@ -71,29 +86,8 @@ DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,scdn.co
-#Signal
-# Signal 官方域名及相关服务
-DOMAIN-SUFFIX,signal.org
-DOMAIN-SUFFIX,signalusers.org
-DOMAIN-SUFFIX,whispersystems.org
-# Signal 的聊天服务器
-DOMAIN,chat.signal.org
-DOMAIN,textsecure-service.whispersystems.org
-# Signal 使用的 API 和更新服务器
-DOMAIN,updates.signal.org
-DOMAIN,cdn.signal.org
-# Signal 通知推送（如果你开启了推送）
-DOMAIN,notify.signal.org
-DOMAIN,push.signal.org
-
-
-
-
-
 #Anki
 DOMAIN-SUFFIX,sync.ankiweb.net
-
-
 #OTHER
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,deeply

@@ -3,6 +3,7 @@
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,whispersystems.org
+DOMAIN-SUFFIX,signalwire.com
 # Signal 的聊天服务器
 DOMAIN,chat.signal.org
 DOMAIN,textsecure-service.whispersystems.org
@@ -12,7 +13,7 @@ DOMAIN,cdn.signal.org
 # Signal 通知推送（如果你开启了推送）
 DOMAIN,notify.signal.org
 DOMAIN,push.signal.org
-
+DOMAIN,s3.amazonaws.com
 # NAME: Line
 DOMAIN-SUFFIX,gcld-line.com
 DOMAIN-SUFFIX,lin.ee

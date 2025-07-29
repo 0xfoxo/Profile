@@ -72,6 +72,11 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,weather
 DOMAIN-SUFFIX,api.weather.com
 DOMAIN-SUFFIX,nativesdks.mparticle.com
+# --- MyRadar Weather App ---
+DOMAIN-SUFFIX,myradar.com
+DOMAIN-SUFFIX,acmeaom.com
+DOMAIN-KEYWORD,myradar
+DOMAIN-SUFFIX,myradarhub.com
 #MICROSOFT
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,onedrive

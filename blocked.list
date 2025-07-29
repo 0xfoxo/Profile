@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 #TWITTER
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,t.co
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,ytimg.com

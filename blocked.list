@@ -2,28 +2,10 @@ DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,jp
 #Apple Intelligence
 DOMAIN-SUFFIX,http://apple-relay.apple.com
-#Clash of Clans
-DOMAIN-SUFFIX,supercell.com
-DOMAIN-KEYWORD,clashofclans
-DOMAIN-KEYWORD,supercell
 #Edx
 DOMAIN-SUFFIX,edx.org
 DOMAIN-SUFFIX,edx.sjv.io
 DOMAIN-KEYWORD,edx
-#Google
-DOMAIN-KEYWORD,googl
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,gmail
-DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,waze
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-KEYWORD,gemini
-DOMAIN-SUFFIX,ggpht.com
 #REDDIT
 DOMAIN-KEYWORD,reddit
 DOMAIN-SUFFIX,redditmedia.com
@@ -37,15 +19,6 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
-#TWITTER
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-KEYWORD,twitter
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,grok
-DOMAIN-SUFFIX,grok.com
 #OpenAI
 DOMAIN,ai.cn
 DOMAIN-SUFFIX,ai.com
@@ -79,12 +52,6 @@ DOMAIN-SUFFIX,myradar.com
 DOMAIN-SUFFIX,acmeaom.com
 DOMAIN-KEYWORD,myradar
 DOMAIN-SUFFIX,myradarhub.com
-#MICROSOFT
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,onedrive
-DOMAIN-KEYWORD,SkyDrive
-#DUOLINGO
-DOMAIN-KEYWORD,duolingo
 #PAYPAL
 DOMAIN-KEYWORD,Wise
 DOMAIN-KEYWORD,PayPal

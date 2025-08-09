@@ -19,6 +19,10 @@ DOMAIN,amp-api.podcasts.apple
 DOMAIN,search.itunes.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN,play.itunes.apple.com
+
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,fastly.net
 # Adobe
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobelogin.com

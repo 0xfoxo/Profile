@@ -11,6 +11,9 @@ DOMAIN-KEYWORD,.tmall.
 IP-CIDR,198.11.188.0/25,no-resolve
 IP-CIDR,198.11.136.0/24,no-resolve
 USER-AGENT,%E6%89%8B%E6%9C%BA%E6%B7%98%E5%AE%9D*
+
+# China
+DOMAIN-SUFFIX,CN
 # Apple Direct
 DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,akadns.net
@@ -24,8 +27,3 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
-
-
-# China
-DOMAIN-SUFFIX,CN
-DOMAIN-KEYWORD,baidu

@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN,gemini.google.com
 # Signal
 DOMAIN-SUFFIX,whatsapp.com

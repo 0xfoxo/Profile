@@ -11,6 +11,14 @@ DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,api.apple-cloudkit.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN,gs.apple.com
+# Apple Podcasts
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,podcasts.apple
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,amp-api.podcasts.apple
+DOMAIN,search.itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN,play.itunes.apple.com
 # Adobe
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobelogin.com

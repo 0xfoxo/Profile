@@ -2,11 +2,28 @@
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,jp
-#Edx
+# Apple Podcasts 核心域名
+DOMAIN-SUFFIX,podcasts.apple.com
+DOMAIN-SUFFIX,podcasts.itunes.apple.com
+DOMAIN-SUFFIX,applepodcasts.com
+# 播客音频文件托管
+DOMAIN-SUFFIX,cdn.apple-cloudkit.com
+DOMAIN-SUFFIX,audio-ssl.itunes.apple.com
+DOMAIN-SUFFIX,audio-ssl.podcasts.apple.com
+# 字幕/转录 API（Siri / Dictation 相关）
+DOMAIN-SUFFIX,dictation.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
+DOMAIN-SUFFIX,siri.apple.com
+DOMAIN-SUFFIX,speech.apple.com
+# iTunes 元数据（封面/信息加载）
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,is1-ssl.mzstatic.com
+DOMAIN-SUFFIX,ls.apple.com
+#----------Edx----------
 DOMAIN-SUFFIX,edx.org
 DOMAIN-SUFFIX,edx.sjv.io
 DOMAIN-KEYWORD,edx
-# Signal
+#---------Signal---------
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,signal.org

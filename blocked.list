@@ -37,13 +37,6 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN,accounts.google.com
 DOMAIN,drive.google.com
-# ================== OpenAI / ChatGPT / Gemini ==================
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN,gemini.google.com
 # ================== 即时通讯（WhatsApp / Signal / LINE / Telegram） ==================
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net

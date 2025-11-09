@@ -23,6 +23,11 @@ USER-AGENT,AppStore*
 USER-AGENT,AppleNews*
 USER-AGENT,TestFlight*
 USER-AGENT,Apple*
+ ================== HSBC BANK ==================
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hangseng.com
 # ================== Google 全家桶 ==================
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com

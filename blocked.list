@@ -23,7 +23,7 @@ USER-AGENT,AppStore*
 USER-AGENT,AppleNews*
 USER-AGENT,TestFlight*
 USER-AGENT,Apple*
- ================== HSBC BANK ==================
+# ================== HSBC BANK ==================
 DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hsbcnet.com

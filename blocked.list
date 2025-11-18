@@ -112,4 +112,11 @@ DOMAIN-KEYWORD,udemy
 DOMAIN-SUFFIX,udemy.com
 DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-SUFFIX,cloudfront.net
+#--------Reddit----------
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditmail.com
+
 

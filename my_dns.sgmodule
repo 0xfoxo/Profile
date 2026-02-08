@@ -29,9 +29,9 @@ cdn.jsdelivr.net = cdn.jsdelivr.net.cdn.cloudflare.net
 # ===== 自己的开始 =====
 
 # AI
-openai.com = server:223.5.5.5
-chat.openai.com = server:223.5.5.5
-oaistatic.com = server:223.5.5.5
+openai.com = server:8.8.8.8
+chat.openai.com = server:8.8.8.8
+oaistatic.com = server:8.8.8.8
 
 # Netflix
 netflix.com = server:8.8.8.8

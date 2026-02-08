@@ -1,0 +1,27 @@
+#!name=My Local DNS Mapping
+#!desc=Custom DNS Mapping — Clean Version
+
+[Host]
+
+# —— 基础 DNS 服务器 ——
+dns.alidns.com = 223.5.5.5, 223.6.6.6
+doh.pub = server:119.29.29.29
+
+# —— 阿里域名走阿里 DNS ——
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:https://dns.alidns.com/dns-query
+
+# —— 腾讯域名走腾讯 DNS ——
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.conf = server:https://doh.pub/dns-query
+
+# —— bilibili ——
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf = server:https://doh.pub/dns-query
+
+# —— 局域网 ——
+*.m2m = server:system
+*.local = server:null
+
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_without_real_ip.conf = server:system
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_with_realip.conf = server:system
+
+# —— CDN 修正 ——
+cdn.jsdelivr.net = cdn.jsdelivr.net.cdn.cloudflare.net

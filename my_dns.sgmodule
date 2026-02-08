@@ -25,3 +25,21 @@ RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/lan_with_
 
 # —— CDN 修正 ——
 cdn.jsdelivr.net = cdn.jsdelivr.net.cdn.cloudflare.net
+
+# ===== 自己的开始 =====
+
+# AI
+openai.com = server:223.5.5.5
+chat.openai.com = server:223.5.5.5
+oaistatic.com = server:223.5.5.5
+
+# Netflix
+netflix.com = server:8.8.8.8
+nflxvideo.net = server:8.8.8.8
+
+# YouTube
+youtube.com = server:223.5.5.5
+googlevideo.com = server:223.5.5.5
+
+# Apple
+podcasts.apple.com = server:system

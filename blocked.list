@@ -2,41 +2,6 @@
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,tw
 DOMAIN-SUFFIX,jp
-# ================== Apple 原生态 ==================
-DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,appleid.apple.com
-DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,applemusic.com
-DOMAIN-SUFFIX,me.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-DOMAIN-SUFFIX,apple-mapkit.com
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,apple.co
-DOMAIN,books.apple.com
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,podcasts.apple.com
-DOMAIN,podcasts.itunes.apple.com
-USER-AGENT,AppStore*
-USER-AGENT,AppleNews*
-USER-AGENT,TestFlight*
-USER-AGENT,Apple*
-# ================== Google 全家桶 ==================
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,withgoogle.com
-DOMAIN,accounts.google.com
-DOMAIN,drive.google.com
 # ================== 即时通讯（WhatsApp / Signal / LINE / Telegram） ==================
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
@@ -46,20 +11,6 @@ DOMAIN,chat.signal.org
 DOMAIN-SUFFIX,storage.signal.org
 DOMAIN-SUFFIX,updates.signal.org
 DOMAIN-KEYWORD,signal
-#Telegram（主站、API、资源加载）
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram-cdn.org
-DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,telegramcdn.com
-DOMAIN-KEYWORD,telegram
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,naver.jp
-# ================== 云存储 ==================
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropboxusercontent.com
 # ================== GitHub ==================
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -67,43 +18,10 @@ DOMAIN-SUFFIX,githubusercontent.com
 # ================== 购物 / 支付 ==================
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,walmart.com
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,myradar.com
 DOMAIN-SUFFIX,myradarhub.com
-DOMAIN-SUFFIX,myradar.io
-DOMAIN-KEYWORD,myradar
-DOMAIN-SUFFIX,waze.com
-# ================== 社交平台 ==================
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,twitter.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,t.co
-# ================== Microsoft 原生态（含 LinkedIn） ==================
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,msocdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,msedge.net
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,azure.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN,login.live.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-USER-AGENT,OneDrive*
-USER-AGENT,Outlook*
-#----------Edx----------
+#================== Edx & Udemy ==================
 DOMAIN-SUFFIX,edx.org
 DOMAIN-SUFFIX,edx.sjv.io
 DOMAIN-KEYWORD,edx
@@ -112,10 +30,10 @@ DOMAIN-KEYWORD,udemy
 DOMAIN-SUFFIX,udemy.com
 DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-SUFFIX,cloudfront.net
-#--------Reddit----------
-DOMAIN-SUFFIX,reddit.com
-DOMAIN-SUFFIX,redditspace.com
-DOMAIN-SUFFIX,redditmedia.com
-DOMAIN-SUFFIX,redditstatic.com
-DOMAIN-SUFFIX,redditmail.com
-DOMAIN-SUFFIX,v.redd.it
+#================== Weather ==================
+# MyRadar
+DOMAIN-SUFFIX,acme-aom.com
+DOMAIN-SUFFIX,acmeaom.com
+DOMAIN-SUFFIX,myradar.com
+DOMAIN-SUFFIX,myradar.space
+DOMAIN-SUFFIX,api.onesignal.com

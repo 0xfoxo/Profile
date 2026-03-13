@@ -1,0 +1,27 @@
+# === Gemini 专属域名 ===
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalicognition-pa.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# === ChatGPT (OpenAI) 专属域名 ===
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+
+# === Claude (Anthropic) 专属域名 ===
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+# === 共有依赖与多媒体处理 (建议包含) ===
+# 解决 Gemini 和 ChatGPT 生成图片/文件无法显示的问题
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com

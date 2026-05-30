@@ -1,3 +1,8 @@
+# === UniFi 云服务走代理（国内访问 ui.com 不稳定）
+DOMAIN-SUFFIX,ui.com
+DOMAIN-SUFFIX,ui.direct  
+DOMAIN-SUFFIX,ubnt.com
+DOMAIN-SUFFIX,unifi.com
 # ======= 高优先级：关键服务 =======
 DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,tw
